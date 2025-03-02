@@ -26,7 +26,7 @@ module.exports = {
     CURRENT_STATUS: process.env.CURRENT_STATUS || "true",
     AUTO_REACT: process.env.AUTO_REACT || "false",
     HEART_REACT: process.env.HEART_REACT || "false",
-    OWNER_REACT: process.env.OWNER_REACT || "true",
+    OWNER_REACT: process.env.OWNER_REACT || "false",
     READ_CMD: process.env.READ_CMD || "true",
     BOT_NAME: process.env.BOT_NAME || "➺ѕเℓεɳƭ_ℓσѵε૨࿐",
     STATUS_REPLY: process.env.STATUS_REPLY || "`➺үσυя sтαтυs sεεη נυsт ησω вү sιℓεηт-sσвx-м∂`",
